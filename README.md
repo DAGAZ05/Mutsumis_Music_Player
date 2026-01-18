@@ -47,3 +47,5 @@ The final result of the project (comprehensive PC end App, MATLAB App, web end A
 May you have a good time using the music player.
 
 To enjoy music, to feel the joy and beauty in the girls' band, and to find surprise in the music player!
+
+![1](pictures/mutsumi2.png)
