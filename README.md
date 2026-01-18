@@ -41,7 +41,7 @@ Addtionally, I implement following functions:
 8. Menu control and additional notes;
 9. Extra surprise options.
 
-The final result of the project (comprehensive PC end App, MATLAB App, web end App) can be received as follows: [Baidu Network](https://pan.baidu.com/s/1fTRcYeFnU4vbTBNYqXzDiw?pwd=aka6).
+The final result of the project (comprehensive PC end App, MATLAB App, web end App) can be received as follows: [Baidu Netdisk](https://pan.baidu.com/s/1fTRcYeFnU4vbTBNYqXzDiw?pwd=aka6).
 
 May you have a good time using the music player.
 
